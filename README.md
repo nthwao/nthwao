@@ -15,19 +15,3 @@ HTML5 CSS3 JavaScript Python Dart Flutter NodeJS MySQL Canva Git
 
 📊 GitHub Stats:
 
-
-
-
-
-
-
-
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
-
-
-Hey👋, Can you help us to grow by sharing?
-
-Feedback
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
